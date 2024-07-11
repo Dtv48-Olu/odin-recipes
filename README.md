@@ -1,0 +1,2 @@
+The following project "Odin recipes" is one of odin's project assinged pratice projects for web development. As I continue to study and learn through their cirrclum I will demostrate
+a multiude of skills and tools nesscary for my future development and growth. In this current itteration I will demostrate my understanding of HTML and how to implement in a realistic scenario.
